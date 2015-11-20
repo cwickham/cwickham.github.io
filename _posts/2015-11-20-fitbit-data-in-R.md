@@ -2,7 +2,7 @@
 layout: post
 title:  "fitbit data in R!"
 date:   2015-11-19 19:11:09 -0800
-categories: R fitbit httr
+categories: R
 ---
 
 
